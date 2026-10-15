@@ -1,5 +1,7 @@
 # Estoque no CERTO
 
+![Apresentação de Estoque no CERTO](assets/banner.png)
+
 **Controle simplificado de produtos, quantidades e validade.**
 
 Estoque no CERTO é uma solução Gentill em desenvolvimento, com interface em **português brasileiro** e foco em uso simples.
@@ -9,6 +11,12 @@ Estoque no CERTO é uma solução Gentill em desenvolvimento, com interface em *
 - Cadastre produtos
 - Registre entradas e saídas de estoque
 - Identifique estoques baixos e prazos de validade
+
+## Identidade visual
+
+![Ícone de Estoque no CERTO](assets/icon.png)
+
+[Ver peça comercial](assets/post.png)
 
 ## Desenvolvimento
 
